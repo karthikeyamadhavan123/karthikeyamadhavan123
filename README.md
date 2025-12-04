@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 - 🌱 I'm currently learning **WebRTC, Advanced AI/ML, and Cloud Architecture**
 - 💬 Ask me about **MERN Stack, Spring Boot, AI/ML, scalable backend systems, AWS, and DSA**
 - 📫 How to reach me: **karthikeyadonnipad2005@gmail.com**
-- 📄 [View My Resume]([https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/1vZqHJnPdyjzmDIhOiWILP66tG0HSyvCY/))
+- 📄<a href="https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/1vZqHJnPdyjzmDIhOiWILP66tG0HSyvCY/" target="_blank">View My Resume</a>
 - ⚡ Fun fact: I love exploring functional programming languages like Haskell and Prolog
 
 ---
