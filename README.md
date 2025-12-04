@@ -82,33 +82,19 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyamadhavan123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyamadhavan123&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyamadhavan123&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikeyamadhavan123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  [<img src="https://github-profile-trophy.vercel.app/?username=karthikeyamadhavan123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />]
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikeyamadhavan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <i>"Code is poetry written for machines to execute and humans to understand."</i>
