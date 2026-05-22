@@ -71,6 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikeyamadhavan123&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  [![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeyamadhavan123)](https://github.com/karthikeyamadhavan123/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyamadhavan123&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
