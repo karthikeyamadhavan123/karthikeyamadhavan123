@@ -67,7 +67,7 @@
 
 ---
 <br>
-
+![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeyamadhavan123&show_icons=true&theme=transparent)
 <p align="center">
   <i>"Code is poetry written for machines to execute and humans to understand."</i>
 </p>
