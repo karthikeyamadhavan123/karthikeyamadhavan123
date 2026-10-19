@@ -16,15 +16,13 @@
 - 🏗️ Building primarily with the **MERN Stack & Next.js**, and actively expanding into the **.NET ecosystem (C#, ASP.NET Core)**.
 - 🌱 Continuously learning **WebRTC, Cloud Architecture (AWS), and Advanced Data Structures & Algorithms**.
 - 🤝 Open-source contributor advocating for clean UI/UX and well-documented code.
-- 📫 Reach me at: **[karthikeyadonnipad2005@gmail.com](mailto:karthikeyadonnipad2005@gmail.com)**
+- 📫 Reach me at: **[karthikeyadonnipad2005@gmail.com](mailto:kmatrix7d5@gmail.com)**
 
 ---
 
 ## 🚀 Featured Projects
-
-*   **[EpisodeOne](#)** - An anime-themed dating application focusing on modern branding, clean UI, and engaging user experiences.
-*   **[JARVIS](#)** - An AI-powered sketch calculator built with the MERN stack and Google Gemini API, capable of interpreting and solving handwritten math queries.
-*   **[YggraDB](#)** - A custom relational database engine engineered in Java to support in-memory data management and custom SQL command execution.
+*   **[JARVIS](https://github.com/karthikeyamadhavan123/JARVIS-ai-caluclator)** - An AI-powered sketch calculator built with the MERN stack and Google Gemini API, capable of interpreting and solving handwritten math queries.
+*   **[YggraDB](https://github.com/karthikeyamadhavan123/YggraDB)** - A custom relational database engine engineered in Java to support in-memory data management and custom SQL command execution.
 
 *(Note: Replace the `#` links above with actual repository or live deployment links)*
 
