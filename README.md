@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthikeya-madhavan-95895b295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:karthikeyadonnipad2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:kmatrix7d5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://drive.google.com/file/d/1vZqHJnPdyjzmDIhOiWILP66tG0HSyvCY/"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
 
@@ -16,15 +16,13 @@
 - 🏗️ Building primarily with the **MERN Stack & Next.js**, and actively expanding into the **.NET ecosystem (C#, ASP.NET Core)**.
 - 🌱 Continuously learning **WebRTC, Cloud Architecture (AWS), and Advanced Data Structures & Algorithms**.
 - 🤝 Open-source contributor advocating for clean UI/UX and well-documented code.
-- 📫 Reach me at: **[karthikeyadonnipad2005@gmail.com](mailto:kmatrix7d5@gmail.com)**
+- 📫 Reach me at: **[kmatrix7d5@gmail.com](mailto:kmatrix7d5@gmail.com)**
 
 ---
 
 ## 🚀 Featured Projects
 *   **[JARVIS](https://github.com/karthikeyamadhavan123/JARVIS-ai-caluclator)** - An AI-powered sketch calculator built with the MERN stack and Google Gemini API, capable of interpreting and solving handwritten math queries.
-*   **[YggraDB](https://github.com/karthikeyamadhavan123/YggraDB)** - A custom relational database engine engineered in Java to support in-memory data management and custom SQL command execution.
-
-*(Note: Replace the `#` links above with actual repository or live deployment links)*
+*   **[YggraDB](https://github.com/karthikeyamadhavan123/YggraDB)** - A custom relational database engine engineered in Java to support in-memory data management and custom SQL command execution.*
 
 ---
 
